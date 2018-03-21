@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <Placemark id="feat_2">
+            <name>point_0</name>
+            <Point id="geom_0">
+                <coordinates>-82.609975,27.459056667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>point_1</name>
+            <Point id="geom_1">
+                <coordinates>-82.609976667,27.459056667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name>point_2</name>
+            <Point id="geom_2">
+                <coordinates>-82.609976667,27.459056667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5">
+            <name>point_3</name>
+            <Point id="geom_3">
+                <coordinates>-82.609976667,27.459056667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6">
+            <name>point_4</name>
+            <Point id="geom_4">
+                <coordinates>-82.609976667,27.459055,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7">
+            <name>point_5</name>
+            <Point id="geom_5">
+                <coordinates>-82.609976667,27.459055,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
