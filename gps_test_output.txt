@@ -1,4 +1,4 @@
-Average latitude: 27.4591672916
-Average longitude: -82.61019
-Average altitude: 52.2
-Average speed: 0.1125
+Average latitude: 27.45911
+Average longitude: -82.6101053334
+Average altitude: 45.48
+Average speed: 0.0402

@@ -37,7 +37,8 @@ with open('gps_test_output.txt', 'w') as f:
 
                     kml.newpoint(name="point_{}".format(num_samples),
                                  coords=[(report.lon, report.lat, report.alt)],
-				 description="velocity: {}".format(report.speed))
+				 description="velocity: {}".format(report.speed),
+                                 altitudemode="absolute")
                     
                     num_samples += 1
         except KeyError:

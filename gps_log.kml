@@ -3,58 +3,42 @@
     <Document id="feat_1">
         <Placemark id="feat_2">
             <name>point_0</name>
-            <description>velocity: 0.077</description>
+            <description>velocity: 0.015</description>
             <Point id="geom_0">
-                <coordinates>-82.610186667,27.459165,52.2</coordinates>
+                <coordinates>-82.610105,27.45911,45.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
         </Placemark>
         <Placemark id="feat_3">
             <name>point_1</name>
-            <description>velocity: 0.108</description>
+            <description>velocity: 0.062</description>
             <Point id="geom_1">
-                <coordinates>-82.610186667,27.459166667,52.2</coordinates>
+                <coordinates>-82.610105,27.45911,45.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
         </Placemark>
         <Placemark id="feat_4">
             <name>point_2</name>
-            <description>velocity: 0.123</description>
+            <description>velocity: 0.057</description>
             <Point id="geom_2">
-                <coordinates>-82.610188333,27.459166667,52.2</coordinates>
+                <coordinates>-82.610105,27.45911,45.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
         </Placemark>
         <Placemark id="feat_5">
             <name>point_3</name>
-            <description>velocity: 0.129</description>
+            <description>velocity: 0.046</description>
             <Point id="geom_3">
-                <coordinates>-82.61019,27.459166667,52.2</coordinates>
+                <coordinates>-82.610105,27.45911,45.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
         </Placemark>
         <Placemark id="feat_6">
             <name>point_4</name>
-            <description>velocity: 0.134</description>
+            <description>velocity: 0.021</description>
             <Point id="geom_4">
-                <coordinates>-82.61019,27.459168333,52.2</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_7">
-            <name>point_5</name>
-            <description>velocity: 0.108</description>
-            <Point id="geom_5">
-                <coordinates>-82.610191667,27.459168333,52.2</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_8">
-            <name>point_6</name>
-            <description>velocity: 0.108</description>
-            <Point id="geom_6">
-                <coordinates>-82.610193333,27.459168333,52.2</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="feat_9">
-            <name>point_7</name>
-            <description>velocity: 0.113</description>
-            <Point id="geom_7">
-                <coordinates>-82.610193333,27.459168333,52.2</coordinates>
+                <coordinates>-82.610106667,27.45911,45.4</coordinates>
+                <altitudeMode>absolute</altitudeMode>
             </Point>
         </Placemark>
     </Document>
