@@ -3,38 +3,177 @@
     <Document id="feat_1">
         <Placemark id="feat_2">
             <name>point_0</name>
+            <description>velocity: 0.077</description>
             <Point id="geom_0">
-                <coordinates>-82.609975,27.459056667,0.0</coordinates>
+                <coordinates>-82.61018,27.459105,54.4</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_3">
             <name>point_1</name>
+            <description>velocity: 0.062</description>
             <Point id="geom_1">
-                <coordinates>-82.609976667,27.459056667,0.0</coordinates>
+                <coordinates>-82.61018,27.459106667,54.4</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_4">
             <name>point_2</name>
+            <description>velocity: 0.134</description>
             <Point id="geom_2">
-                <coordinates>-82.609976667,27.459056667,0.0</coordinates>
+                <coordinates>-82.610181667,27.459106667,54.4</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_5">
             <name>point_3</name>
+            <description>velocity: 0.139</description>
             <Point id="geom_3">
-                <coordinates>-82.609976667,27.459056667,0.0</coordinates>
+                <coordinates>-82.610181667,27.459106667,54.4</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_6">
             <name>point_4</name>
+            <description>velocity: 0.093</description>
             <Point id="geom_4">
-                <coordinates>-82.609976667,27.459055,0.0</coordinates>
+                <coordinates>-82.610183333,27.459106667,54.4</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_7">
             <name>point_5</name>
+            <description>velocity: 0.041</description>
             <Point id="geom_5">
-                <coordinates>-82.609976667,27.459055,0.0</coordinates>
+                <coordinates>-82.610183333,27.459105,54.4</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8">
+            <name>point_6</name>
+            <description>velocity: 0.036</description>
+            <Point id="geom_6">
+                <coordinates>-82.610183333,27.459105,54.4</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9">
+            <name>point_7</name>
+            <description>velocity: 0.036</description>
+            <Point id="geom_7">
+                <coordinates>-82.610183333,27.459105,54.4</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10">
+            <name>point_8</name>
+            <description>velocity: 0.072</description>
+            <Point id="geom_8">
+                <coordinates>-82.610183333,27.459105,54.4</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11">
+            <name>point_9</name>
+            <description>velocity: 0.118</description>
+            <Point id="geom_9">
+                <coordinates>-82.610183333,27.459105,54.4</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12">
+            <name>point_10</name>
+            <description>velocity: 0.118</description>
+            <Point id="geom_10">
+                <coordinates>-82.610185,27.459105,54.4</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13">
+            <name>point_11</name>
+            <description>velocity: 0.072</description>
+            <Point id="geom_11">
+                <coordinates>-82.610186667,27.459105,54.4</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14">
+            <name>point_12</name>
+            <description>velocity: 0.113</description>
+            <Point id="geom_12">
+                <coordinates>-82.610186667,27.459103333,54.4</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15">
+            <name>point_13</name>
+            <description>velocity: 0.154</description>
+            <Point id="geom_13">
+                <coordinates>-82.610186667,27.459103333,54.4</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16">
+            <name>point_14</name>
+            <description>velocity: 0.17</description>
+            <Point id="geom_14">
+                <coordinates>-82.610188333,27.459101667,54.4</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17">
+            <name>point_15</name>
+            <description>velocity: 0.17</description>
+            <Point id="geom_15">
+                <coordinates>-82.610188333,27.4591,54.4</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_18">
+            <name>point_16</name>
+            <description>velocity: 0.118</description>
+            <Point id="geom_16">
+                <coordinates>-82.610188333,27.459098333,54.4</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19">
+            <name>point_17</name>
+            <description>velocity: 0.165</description>
+            <Point id="geom_17">
+                <coordinates>-82.610188333,27.459098333,54.4</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20">
+            <name>point_18</name>
+            <description>velocity: 0.098</description>
+            <Point id="geom_18">
+                <coordinates>-82.61019,27.459096667,54.4</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_21">
+            <name>point_19</name>
+            <description>velocity: 0.123</description>
+            <Point id="geom_19">
+                <coordinates>-82.61019,27.459095,54.4</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_22">
+            <name>point_20</name>
+            <description>velocity: 0.087</description>
+            <Point id="geom_20">
+                <coordinates>-82.61019,27.459095,54.4</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_23">
+            <name>point_21</name>
+            <description>velocity: 0.057</description>
+            <Point id="geom_21">
+                <coordinates>-82.61019,27.459093333,54.4</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_24">
+            <name>point_22</name>
+            <description>velocity: 0.072</description>
+            <Point id="geom_22">
+                <coordinates>-82.61019,27.459093333,54.3</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_25">
+            <name>point_23</name>
+            <description>velocity: 0.087</description>
+            <Point id="geom_23">
+                <coordinates>-82.61019,27.459091667,54.3</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_26">
+            <name>point_24</name>
+            <description>velocity: 0.072</description>
+            <Point id="geom_24">
+                <coordinates>-82.61019,27.459091667,54.3</coordinates>
             </Point>
         </Placemark>
     </Document>
