@@ -30,8 +30,10 @@ with open('gps_test_output.txt', 'w') as f:
 		    print(report.speed)			
                     print("\n")
                     
-                    avg_lat += report.lat
-                    avg_lon += report.lon
+                    avg_lat     += report.lat
+                    avg_lon     += report.lon
+                    avg_alt     += report.alt
+                    avg_speed   += report.speed
 
                     kml.newpoint(name="point_{}".format(num_samples),
                                  coords=[(report.lon, report.lat, report.alt)],
