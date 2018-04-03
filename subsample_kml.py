@@ -1,5 +1,8 @@
 sample_freq = 60
 
+SRC_KML = "/home/nightrider/Downloads/gps_log (6).kml"
+DST_KML = "/home/nightrider/Downloads/gps_log (6)_subsampled.kml"
+
 
 def write_start(src_file=None, dst_file=None):
     count = 0
@@ -11,8 +14,8 @@ def write_start(src_file=None, dst_file=None):
 
 
 def main():
-    with open("/Users/jdcast/Downloads/gps_log (6).kml", "r") as src_kml:
-        with open("/Users/jdcast/Desktop/gps_log (6)_subsampled.kml", "w") as dst_kml:
+    with open(SRC_KML, "r") as src_kml:
+        with open(DST_KML, "w") as dst_kml:
 
             lines = src_kml.readlines()
 
@@ -25,7 +28,8 @@ def main():
             count = 0
             for idx, line in enumerate(lines[3:-2]):
                 if "<Placemark" in line:
-                    if count % sample_freq == 0:
+                    if count % sample_freq == 0 and count >= 3000 and count <= 18000:
+                        print(count)
                         dst_kml.write(line)
                         dst_kml.write(lines[idx + 3 + 1])
                         dst_kml.write(lines[idx + 3 + 2])
