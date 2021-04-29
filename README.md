@@ -1,6 +1,8 @@
 # geo-logger
 
-See [my project page](https://www.johndallascast.com/project/other/geo_logger/) for a demo.
+Python software to record GPS, velocity and elevation on headless Raspberry Pi 3B+.
+
+See [my project page](https://www.johndallascast.com/project/other/geo_logger/) for a demo and necessary hardware.
 
 The steps to run the code and produce a *kml* file (that is viewable in Google Earth) is fairly straightforward:                                                                                                                                                            
 1. Setup Raspberry Pi to run in headless mode[^8] (so that it can be ran in the field) 
