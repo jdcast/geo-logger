@@ -5,7 +5,7 @@ Python software to record GPS, velocity and elevation on headless Raspberry Pi 3
 See [my project page](https://www.johndallascast.com/project/other/geo_logger/) for a demo and necessary hardware.
 
 The steps to run the code and produce a *kml* file (that is viewable in Google Earth) is fairly straightforward:                                                                                                                                                            
-1. Setup Raspberry Pi to run in headless mode[^8] (so that it can be ran in the field) 
+1. Setup Raspberry Pi to run in headless mode (so that it can be ran in the field) 
 2. *init.sh* starts the *gpsd* (GPS) service for the Raspberry Pi.  The Raspberry Pi listens to the output of the service on port 2947.
 3. The user starts *gps_test.py*
 4. The Raspberry Pi then samples *gpsd* service (~1Hz) and writes this output to a file: *gps_log.kml*
