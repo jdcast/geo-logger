@@ -1,7 +1,7 @@
 sample_freq = 60
 
-SRC_KML = "/home/nightrider/Downloads/gps_log (6).kml"
-DST_KML = "/home/nightrider/Downloads/gps_log (6)_subsampled.kml"
+SRC_KML = "/home/nightrider/Downloads/gps_log.kml"
+DST_KML = "/home/nightrider/Downloads/gps_log_subsampled.kml"
 
 
 def write_start(src_file=None, dst_file=None):

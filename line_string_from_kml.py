@@ -1,7 +1,7 @@
 import simplekml
 
-SRC_KML = "/home/nightrider/Downloads/gps_log (6)_subsampled.kml"
-DST_KML = "/home/nightrider/Downloads/gps_log (6)_subsampled_line_string.kml"
+SRC_KML = "/home/nightrider/Downloads/gps_log_subsampled.kml"
+DST_KML = "/home/nightrider/Downloads/gps_log_subsampled_line_string.kml"
 
 
 def main():
