@@ -1,0 +1,2013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <Placemark id="feat_3002">
+            <name>point_3000</name>
+            <description>velocity: 0.129</description>
+            <Point id="geom_3000">
+                <coordinates>-82.543096667,27.271446667,-0.7</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3062">
+            <name>point_3060</name>
+            <description>velocity: 0.062</description>
+            <Point id="geom_3060">
+                <coordinates>-82.543095,27.271455,-0.6</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3122">
+            <name>point_3120</name>
+            <description>velocity: 0.082</description>
+            <Point id="geom_3120">
+                <coordinates>-82.543075,27.27145,-0.3</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3182">
+            <name>point_3180</name>
+            <description>velocity: 0.195</description>
+            <Point id="geom_3180">
+                <coordinates>-82.543065,27.271438333,-0.2</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3242">
+            <name>point_3240</name>
+            <description>velocity: 0.329</description>
+            <Point id="geom_3240">
+                <coordinates>-82.543068333,27.271463333,0.6</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3302">
+            <name>point_3300</name>
+            <description>velocity: 0.051</description>
+            <Point id="geom_3300">
+                <coordinates>-82.54311,27.271458333,0.8</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3362">
+            <name>point_3360</name>
+            <description>velocity: 0.211</description>
+            <Point id="geom_3360">
+                <coordinates>-82.543103333,27.271393333,-1.9</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3422">
+            <name>point_3420</name>
+            <description>velocity: 0.494</description>
+            <Point id="geom_3420">
+                <coordinates>-82.543001667,27.271453333,-0.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3482">
+            <name>point_3480</name>
+            <description>velocity: 1.358</description>
+            <Point id="geom_3480">
+                <coordinates>-82.543188333,27.271871667,3.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3542">
+            <name>point_3540</name>
+            <description>velocity: 1.23</description>
+            <Point id="geom_3540">
+                <coordinates>-82.543446667,27.272548333,6.3</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3602">
+            <name>point_3600</name>
+            <description>velocity: 0.381</description>
+            <Point id="geom_3600">
+                <coordinates>-82.54369,27.272945,6.4</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3662">
+            <name>point_3660</name>
+            <description>velocity: 1.065</description>
+            <Point id="geom_3660">
+                <coordinates>-82.543521667,27.273296667,4.9</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3722">
+            <name>point_3720</name>
+            <description>velocity: 1.24</description>
+            <Point id="geom_3720">
+                <coordinates>-82.543685,27.273785,6.4</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3782">
+            <name>point_3780</name>
+            <description>velocity: 0.715</description>
+            <Point id="geom_3780">
+                <coordinates>-82.543781667,27.27441,8.3</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3842">
+            <name>point_3840</name>
+            <description>velocity: 0.031</description>
+            <Point id="geom_3840">
+                <coordinates>-82.543931667,27.275023333,6.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3902">
+            <name>point_3900</name>
+            <description>velocity: 0.694</description>
+            <Point id="geom_3900">
+                <coordinates>-82.543861667,27.275353333,4.1</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3962">
+            <name>point_3960</name>
+            <description>velocity: 0.952</description>
+            <Point id="geom_3960">
+                <coordinates>-82.544123333,27.276056667,11.1</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4022">
+            <name>point_4020</name>
+            <description>velocity: 1.214</description>
+            <Point id="geom_4020">
+                <coordinates>-82.54434,27.27668,7.6</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4082">
+            <name>point_4080</name>
+            <description>velocity: 1.296</description>
+            <Point id="geom_4080">
+                <coordinates>-82.544708333,27.27719,6.6</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4142">
+            <name>point_4140</name>
+            <description>velocity: 1.348</description>
+            <Point id="geom_4140">
+                <coordinates>-82.545335,27.277591667,6.1</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4202">
+            <name>point_4200</name>
+            <description>velocity: 1.096</description>
+            <Point id="geom_4200">
+                <coordinates>-82.545828333,27.277945,7.4</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4262">
+            <name>point_4260</name>
+            <description>velocity: 1.132</description>
+            <Point id="geom_4260">
+                <coordinates>-82.546221667,27.278135,13.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4322">
+            <name>point_4320</name>
+            <description>velocity: 0.993</description>
+            <Point id="geom_4320">
+                <coordinates>-82.546775,27.278651667,14.2</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4382">
+            <name>point_4380</name>
+            <description>velocity: 1.379</description>
+            <Point id="geom_4380">
+                <coordinates>-82.54721,27.279196667,20.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4442">
+            <name>point_4440</name>
+            <description>velocity: 1.497</description>
+            <Point id="geom_4440">
+                <coordinates>-82.547576667,27.279878333,21.2</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4502">
+            <name>point_4500</name>
+            <description>velocity: 1.157</description>
+            <Point id="geom_4500">
+                <coordinates>-82.547868333,27.280476667,15.7</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4562">
+            <name>point_4560</name>
+            <description>velocity: 0.679</description>
+            <Point id="geom_4560">
+                <coordinates>-82.547945,27.281201667,5.9</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4622">
+            <name>point_4620</name>
+            <description>velocity: 1.471</description>
+            <Point id="geom_4620">
+                <coordinates>-82.548088333,27.281925,1.9</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4682">
+            <name>point_4680</name>
+            <description>velocity: 1.574</description>
+            <Point id="geom_4680">
+                <coordinates>-82.548131667,27.282671667,5.1</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4742">
+            <name>point_4740</name>
+            <description>velocity: 1.404</description>
+            <Point id="geom_4740">
+                <coordinates>-82.548266667,27.283446667,5.4</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4802">
+            <name>point_4800</name>
+            <description>velocity: 1.121</description>
+            <Point id="geom_4800">
+                <coordinates>-82.548556667,27.284168333,15.3</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4862">
+            <name>point_4860</name>
+            <description>velocity: 1.091</description>
+            <Point id="geom_4860">
+                <coordinates>-82.54864,27.284951667,18.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4922">
+            <name>point_4920</name>
+            <description>velocity: 1.363</description>
+            <Point id="geom_4920">
+                <coordinates>-82.548605,27.285545,11.3</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4982">
+            <name>point_4980</name>
+            <description>velocity: 1.476</description>
+            <Point id="geom_4980">
+                <coordinates>-82.548416667,27.286213333,8.8</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5042">
+            <name>point_5040</name>
+            <description>velocity: 1.348</description>
+            <Point id="geom_5040">
+                <coordinates>-82.548221667,27.286931667,14.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5102">
+            <name>point_5100</name>
+            <description>velocity: 1.08</description>
+            <Point id="geom_5100">
+                <coordinates>-82.548063333,27.287625,18.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5162">
+            <name>point_5160</name>
+            <description>velocity: 1.394</description>
+            <Point id="geom_5160">
+                <coordinates>-82.547988333,27.288346667,11.4</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5222">
+            <name>point_5220</name>
+            <description>velocity: 1.327</description>
+            <Point id="geom_5220">
+                <coordinates>-82.54799,27.288981667,-0.3</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5282">
+            <name>point_5280</name>
+            <description>velocity: 1.554</description>
+            <Point id="geom_5280">
+                <coordinates>-82.547928333,27.289725,-0.6</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5342">
+            <name>point_5340</name>
+            <description>velocity: 1.224</description>
+            <Point id="geom_5340">
+                <coordinates>-82.547793333,27.290461667,10.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5402">
+            <name>point_5400</name>
+            <description>velocity: 1.121</description>
+            <Point id="geom_5400">
+                <coordinates>-82.547673333,27.291171667,19.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5462">
+            <name>point_5460</name>
+            <description>velocity: 1.286</description>
+            <Point id="geom_5460">
+                <coordinates>-82.547698333,27.291958333,17.3</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5522">
+            <name>point_5520</name>
+            <description>velocity: 1.307</description>
+            <Point id="geom_5520">
+                <coordinates>-82.547615,27.292678333,9.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5582">
+            <name>point_5580</name>
+            <description>velocity: 1.667</description>
+            <Point id="geom_5580">
+                <coordinates>-82.547668333,27.293456667,14.9</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5642">
+            <name>point_5640</name>
+            <description>velocity: 1.42</description>
+            <Point id="geom_5640">
+                <coordinates>-82.54766,27.29417,10.2</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5702">
+            <name>point_5700</name>
+            <description>velocity: 1.62</description>
+            <Point id="geom_5700">
+                <coordinates>-82.547546667,27.29496,24.2</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5762">
+            <name>point_5760</name>
+            <description>velocity: 1.662</description>
+            <Point id="geom_5760">
+                <coordinates>-82.54733,27.295635,38.3</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5822">
+            <name>point_5820</name>
+            <description>velocity: 0.931</description>
+            <Point id="geom_5820">
+                <coordinates>-82.547296667,27.296251667,22.4</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5882">
+            <name>point_5880</name>
+            <description>velocity: 0.556</description>
+            <Point id="geom_5880">
+                <coordinates>-82.547331667,27.296888333,26.3</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5942">
+            <name>point_5940</name>
+            <description>velocity: 0.911</description>
+            <Point id="geom_5940">
+                <coordinates>-82.547301667,27.297128333,27.8</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6002">
+            <name>point_6000</name>
+            <description>velocity: 0.314</description>
+            <Point id="geom_6000">
+                <coordinates>-82.547245,27.2972,19.6</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6062">
+            <name>point_6060</name>
+            <description>velocity: 0.684</description>
+            <Point id="geom_6060">
+                <coordinates>-82.547345,27.297376667,21.1</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6122">
+            <name>point_6120</name>
+            <description>velocity: 0.545</description>
+            <Point id="geom_6120">
+                <coordinates>-82.547353333,27.297668333,16.8</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6182">
+            <name>point_6180</name>
+            <description>velocity: 0.159</description>
+            <Point id="geom_6180">
+                <coordinates>-82.547553333,27.29784,20.3</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6242">
+            <name>point_6240</name>
+            <description>velocity: 0.319</description>
+            <Point id="geom_6240">
+                <coordinates>-82.547863333,27.297826667,20.7</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6302">
+            <name>point_6300</name>
+            <description>velocity: 1.157</description>
+            <Point id="geom_6300">
+                <coordinates>-82.547791667,27.298091667,19.2</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6362">
+            <name>point_6360</name>
+            <description>velocity: 0.314</description>
+            <Point id="geom_6360">
+                <coordinates>-82.5478,27.298208333,19.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6422">
+            <name>point_6420</name>
+            <description>velocity: 1.338</description>
+            <Point id="geom_6420">
+                <coordinates>-82.54769,27.298496667,17.4</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6482">
+            <name>point_6480</name>
+            <description>velocity: 1.584</description>
+            <Point id="geom_6480">
+                <coordinates>-82.5477,27.299195,9.9</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6542">
+            <name>point_6540</name>
+            <description>velocity: 1.127</description>
+            <Point id="geom_6540">
+                <coordinates>-82.547591667,27.29978,10.6</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6602">
+            <name>point_6600</name>
+            <description>velocity: 1.374</description>
+            <Point id="geom_6600">
+                <coordinates>-82.547298333,27.300426667,17.1</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6662">
+            <name>point_6660</name>
+            <description>velocity: 1.461</description>
+            <Point id="geom_6660">
+                <coordinates>-82.54701,27.301141667,23.4</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6722">
+            <name>point_6720</name>
+            <description>velocity: 0.694</description>
+            <Point id="geom_6720">
+                <coordinates>-82.546688333,27.301586667,27.8</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6782">
+            <name>point_6780</name>
+            <description>velocity: 1.657</description>
+            <Point id="geom_6780">
+                <coordinates>-82.546485,27.302343333,36.7</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6842">
+            <name>point_6840</name>
+            <description>velocity: 0.869</description>
+            <Point id="geom_6840">
+                <coordinates>-82.5465,27.302913333,39.6</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6902">
+            <name>point_6900</name>
+            <description>velocity: 0.314</description>
+            <Point id="geom_6900">
+                <coordinates>-82.546633333,27.303253333,37.2</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6962">
+            <name>point_6960</name>
+            <description>velocity: 1.245</description>
+            <Point id="geom_6960">
+                <coordinates>-82.546998333,27.3035,24.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7022">
+            <name>point_7020</name>
+            <description>velocity: 1.209</description>
+            <Point id="geom_7020">
+                <coordinates>-82.547685,27.303533333,19.6</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7082">
+            <name>point_7080</name>
+            <description>velocity: 1.075</description>
+            <Point id="geom_7080">
+                <coordinates>-82.548295,27.303688333,17.1</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7142">
+            <name>point_7140</name>
+            <description>velocity: 1.07</description>
+            <Point id="geom_7140">
+                <coordinates>-82.548921667,27.303801667,18.9</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7202">
+            <name>point_7200</name>
+            <description>velocity: 0.777</description>
+            <Point id="geom_7200">
+                <coordinates>-82.549426667,27.304021667,21.4</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7262">
+            <name>point_7260</name>
+            <description>velocity: 1.029</description>
+            <Point id="geom_7260">
+                <coordinates>-82.550016667,27.304141667,32.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7322">
+            <name>point_7320</name>
+            <description>velocity: 1.163</description>
+            <Point id="geom_7320">
+                <coordinates>-82.550575,27.304313333,41.1</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7382">
+            <name>point_7380</name>
+            <description>velocity: 1.24</description>
+            <Point id="geom_7380">
+                <coordinates>-82.55122,27.304541667,50.4</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7442">
+            <name>point_7440</name>
+            <description>velocity: 0.679</description>
+            <Point id="geom_7440">
+                <coordinates>-82.551745,27.304758333,58.6</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7502">
+            <name>point_7500</name>
+            <description>velocity: 0.514</description>
+            <Point id="geom_7500">
+                <coordinates>-82.552125,27.304796667,57.4</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7562">
+            <name>point_7560</name>
+            <description>velocity: 1.039</description>
+            <Point id="geom_7560">
+                <coordinates>-82.552498333,27.304801667,44.6</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7622">
+            <name>point_7620</name>
+            <description>velocity: 0.921</description>
+            <Point id="geom_7620">
+                <coordinates>-82.553153333,27.30476,32.4</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7682">
+            <name>point_7680</name>
+            <description>velocity: 0.597</description>
+            <Point id="geom_7680">
+                <coordinates>-82.553573333,27.304795,18.9</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7742">
+            <name>point_7740</name>
+            <description>velocity: 0.499</description>
+            <Point id="geom_7740">
+                <coordinates>-82.553561667,27.30474,13.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7802">
+            <name>point_7800</name>
+            <description>velocity: 0.936</description>
+            <Point id="geom_7800">
+                <coordinates>-82.55422,27.3048,11.6</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7862">
+            <name>point_7860</name>
+            <description>velocity: 1.116</description>
+            <Point id="geom_7860">
+                <coordinates>-82.554808333,27.304985,6.6</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7922">
+            <name>point_7920</name>
+            <description>velocity: 0.957</description>
+            <Point id="geom_7920">
+                <coordinates>-82.555306667,27.305136667,6.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7982">
+            <name>point_7980</name>
+            <description>velocity: 0.237</description>
+            <Point id="geom_7980">
+                <coordinates>-82.5554,27.305005,8.1</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8042">
+            <name>point_8040</name>
+            <description>velocity: 0.926</description>
+            <Point id="geom_8040">
+                <coordinates>-82.55538,27.304873333,8.6</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8102">
+            <name>point_8100</name>
+            <description>velocity: 0.118</description>
+            <Point id="geom_8100">
+                <coordinates>-82.555618333,27.304738333,9.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8162">
+            <name>point_8160</name>
+            <description>velocity: 0.576</description>
+            <Point id="geom_8160">
+                <coordinates>-82.555518333,27.304796667,8.7</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8222">
+            <name>point_8220</name>
+            <description>velocity: 0.885</description>
+            <Point id="geom_8220">
+                <coordinates>-82.555478333,27.304911667,8.2</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8282">
+            <name>point_8280</name>
+            <description>velocity: 0.854</description>
+            <Point id="geom_8280">
+                <coordinates>-82.55605,27.305268333,7.4</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8342">
+            <name>point_8340</name>
+            <description>velocity: 0.751</description>
+            <Point id="geom_8340">
+                <coordinates>-82.556625,27.305183333,7.6</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8402">
+            <name>point_8400</name>
+            <description>velocity: 1.23</description>
+            <Point id="geom_8400">
+                <coordinates>-82.55725,27.305191667,7.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8462">
+            <name>point_8460</name>
+            <description>velocity: 1.255</description>
+            <Point id="geom_8460">
+                <coordinates>-82.55796,27.305021667,6.4</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8522">
+            <name>point_8520</name>
+            <description>velocity: 1.168</description>
+            <Point id="geom_8520">
+                <coordinates>-82.558621667,27.304751667,10.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8582">
+            <name>point_8580</name>
+            <description>velocity: 1.322</description>
+            <Point id="geom_8580">
+                <coordinates>-82.55906,27.304343333,11.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8642">
+            <name>point_8640</name>
+            <description>velocity: 0.7</description>
+            <Point id="geom_8640">
+                <coordinates>-82.559355,27.303875,18.3</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8702">
+            <name>point_8700</name>
+            <description>velocity: 0.741</description>
+            <Point id="geom_8700">
+                <coordinates>-82.559451667,27.303656667,34.4</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8762">
+            <name>point_8760</name>
+            <description>velocity: 0.89</description>
+            <Point id="geom_8760">
+                <coordinates>-82.559693333,27.303318333,58.8</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8822">
+            <name>point_8820</name>
+            <description>velocity: 0.319</description>
+            <Point id="geom_8820">
+                <coordinates>-82.559795,27.302928333,91.7</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8882">
+            <name>point_8880</name>
+            <description>velocity: 1.266</description>
+            <Point id="geom_8880">
+                <coordinates>-82.560083333,27.302571667,99.8</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8942">
+            <name>point_8940</name>
+            <description>velocity: 0.926</description>
+            <Point id="geom_8940">
+                <coordinates>-82.560206667,27.302078333,103.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9002">
+            <name>point_9000</name>
+            <description>velocity: 0.777</description>
+            <Point id="geom_9000">
+                <coordinates>-82.560253333,27.301765,102.6</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9062">
+            <name>point_9060</name>
+            <description>velocity: 0.736</description>
+            <Point id="geom_9060">
+                <coordinates>-82.560221667,27.301351667,107.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9122">
+            <name>point_9120</name>
+            <description>velocity: 0.643</description>
+            <Point id="geom_9120">
+                <coordinates>-82.560355,27.300878333,113.2</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9182">
+            <name>point_9180</name>
+            <description>velocity: 1.008</description>
+            <Point id="geom_9180">
+                <coordinates>-82.560388333,27.3004,101.3</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9242">
+            <name>point_9240</name>
+            <description>velocity: 0.854</description>
+            <Point id="geom_9240">
+                <coordinates>-82.560396667,27.299941667,80.2</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9302">
+            <name>point_9300</name>
+            <description>velocity: 0.216</description>
+            <Point id="geom_9300">
+                <coordinates>-82.560428333,27.29945,50.3</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9362">
+            <name>point_9360</name>
+            <description>velocity: 0.082</description>
+            <Point id="geom_9360">
+                <coordinates>-82.560271667,27.299411667,31.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9422">
+            <name>point_9420</name>
+            <description>velocity: 0.818</description>
+            <Point id="geom_9420">
+                <coordinates>-82.56025,27.299045,15.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9482">
+            <name>point_9480</name>
+            <description>velocity: 0.957</description>
+            <Point id="geom_9480">
+                <coordinates>-82.560145,27.298621667,8.2</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9542">
+            <name>point_9540</name>
+            <description>velocity: 0.926</description>
+            <Point id="geom_9540">
+                <coordinates>-82.560015,27.298173333,4.8</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9602">
+            <name>point_9600</name>
+            <description>velocity: 0.797</description>
+            <Point id="geom_9600">
+                <coordinates>-82.560048333,27.297785,3.8</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9662">
+            <name>point_9660</name>
+            <description>velocity: 0.931</description>
+            <Point id="geom_9660">
+                <coordinates>-82.559963333,27.29731,3.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9722">
+            <name>point_9720</name>
+            <description>velocity: 0.772</description>
+            <Point id="geom_9720">
+                <coordinates>-82.560023333,27.296928333,1.1</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9782">
+            <name>point_9780</name>
+            <description>velocity: 0.535</description>
+            <Point id="geom_9780">
+                <coordinates>-82.560128333,27.296563333,1.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9842">
+            <name>point_9840</name>
+            <description>velocity: 0.803</description>
+            <Point id="geom_9840">
+                <coordinates>-82.56014,27.296536667,0.8</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9902">
+            <name>point_9900</name>
+            <description>velocity: 0.504</description>
+            <Point id="geom_9900">
+                <coordinates>-82.560156667,27.296256667,-0.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9962">
+            <name>point_9960</name>
+            <description>velocity: 0.442</description>
+            <Point id="geom_9960">
+                <coordinates>-82.560071667,27.296481667,-1.3</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10022">
+            <name>point_10020</name>
+            <description>velocity: 0.787</description>
+            <Point id="geom_10020">
+                <coordinates>-82.560181667,27.296086667,-2.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10082">
+            <name>point_10080</name>
+            <description>velocity: 0.705</description>
+            <Point id="geom_10080">
+                <coordinates>-82.560393333,27.295686667,-1.6</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10142">
+            <name>point_10140</name>
+            <description>velocity: 0.916</description>
+            <Point id="geom_10140">
+                <coordinates>-82.560513333,27.29545,-1.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10202">
+            <name>point_10200</name>
+            <description>velocity: 0.293</description>
+            <Point id="geom_10200">
+                <coordinates>-82.560573333,27.295161667,-2.3</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10262">
+            <name>point_10260</name>
+            <description>velocity: 0.597</description>
+            <Point id="geom_10260">
+                <coordinates>-82.560596667,27.294906667,-1.6</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10322">
+            <name>point_10320</name>
+            <description>velocity: 0.751</description>
+            <Point id="geom_10320">
+                <coordinates>-82.560808333,27.294591667,0.9</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10382">
+            <name>point_10380</name>
+            <description>velocity: 0.664</description>
+            <Point id="geom_10380">
+                <coordinates>-82.561063333,27.294373333,0.9</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10442">
+            <name>point_10440</name>
+            <description>velocity: 0.689</description>
+            <Point id="geom_10440">
+                <coordinates>-82.561191667,27.294135,1.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10502">
+            <name>point_10500</name>
+            <description>velocity: 0.674</description>
+            <Point id="geom_10500">
+                <coordinates>-82.561496667,27.293885,2.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10562">
+            <name>point_10560</name>
+            <description>velocity: 0.782</description>
+            <Point id="geom_10560">
+                <coordinates>-82.561778333,27.293596667,-0.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10622">
+            <name>point_10620</name>
+            <description>velocity: 0.592</description>
+            <Point id="geom_10620">
+                <coordinates>-82.561988333,27.29327,-2.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10682">
+            <name>point_10680</name>
+            <description>velocity: 0.324</description>
+            <Point id="geom_10680">
+                <coordinates>-82.562141667,27.293015,-3.3</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10742">
+            <name>point_10740</name>
+            <description>velocity: 0.021</description>
+            <Point id="geom_10740">
+                <coordinates>-82.562241667,27.292946667,-3.8</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10802">
+            <name>point_10800</name>
+            <description>velocity: 0.293</description>
+            <Point id="geom_10800">
+                <coordinates>-82.562076667,27.293056667,-3.2</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10862">
+            <name>point_10860</name>
+            <description>velocity: 0.185</description>
+            <Point id="geom_10860">
+                <coordinates>-82.562161667,27.293011667,-3.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10922">
+            <name>point_10920</name>
+            <description>velocity: 0.108</description>
+            <Point id="geom_10920">
+                <coordinates>-82.562133333,27.293063333,-2.9</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10982">
+            <name>point_10980</name>
+            <description>velocity: 0.545</description>
+            <Point id="geom_10980">
+                <coordinates>-82.562035,27.293156667,-2.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11042">
+            <name>point_11040</name>
+            <description>velocity: 0.381</description>
+            <Point id="geom_11040">
+                <coordinates>-82.562081667,27.293206667,0.1</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11102">
+            <name>point_11100</name>
+            <description>velocity: 0.581</description>
+            <Point id="geom_11100">
+                <coordinates>-82.562048333,27.29325,0.2</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11162">
+            <name>point_11160</name>
+            <description>velocity: 0.216</description>
+            <Point id="geom_11160">
+                <coordinates>-82.562126667,27.293125,1.4</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11222">
+            <name>point_11220</name>
+            <description>velocity: 0.283</description>
+            <Point id="geom_11220">
+                <coordinates>-82.562225,27.292956667,2.9</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11282">
+            <name>point_11280</name>
+            <description>velocity: 0.288</description>
+            <Point id="geom_11280">
+                <coordinates>-82.562175,27.292905,3.3</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11342">
+            <name>point_11340</name>
+            <description>velocity: 0.612</description>
+            <Point id="geom_11340">
+                <coordinates>-82.562168333,27.292821667,4.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11402">
+            <name>point_11400</name>
+            <description>velocity: 0.108</description>
+            <Point id="geom_11400">
+                <coordinates>-82.562173333,27.29269,4.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11462">
+            <name>point_11460</name>
+            <description>velocity: 0.921</description>
+            <Point id="geom_11460">
+                <coordinates>-82.561976667,27.292735,3.2</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11522">
+            <name>point_11520</name>
+            <description>velocity: 1.677</description>
+            <Point id="geom_11520">
+                <coordinates>-82.56152,27.293438333,4.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11582">
+            <name>point_11580</name>
+            <description>velocity: 1.847</description>
+            <Point id="geom_11580">
+                <coordinates>-82.561086667,27.294326667,8.6</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11642">
+            <name>point_11640</name>
+            <description>velocity: 1.734</description>
+            <Point id="geom_11640">
+                <coordinates>-82.560701667,27.295238333,11.9</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11702">
+            <name>point_11700</name>
+            <description>velocity: 1.415</description>
+            <Point id="geom_11700">
+                <coordinates>-82.560291667,27.296088333,22.2</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11762">
+            <name>point_11760</name>
+            <description>velocity: 1.61</description>
+            <Point id="geom_11760">
+                <coordinates>-82.560075,27.297011667,32.8</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11822">
+            <name>point_11820</name>
+            <description>velocity: 1.62</description>
+            <Point id="geom_11820">
+                <coordinates>-82.56011,27.297913333,7.9</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11882">
+            <name>point_11880</name>
+            <description>velocity: 1.662</description>
+            <Point id="geom_11880">
+                <coordinates>-82.560175,27.298803333,6.2</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11942">
+            <name>point_11940</name>
+            <description>velocity: 1.631</description>
+            <Point id="geom_11940">
+                <coordinates>-82.560171667,27.299755,7.8</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12002">
+            <name>point_12000</name>
+            <description>velocity: 1.595</description>
+            <Point id="geom_12000">
+                <coordinates>-82.56008,27.30054,8.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12062">
+            <name>point_12060</name>
+            <description>velocity: 1.672</description>
+            <Point id="geom_12060">
+                <coordinates>-82.560043333,27.301398333,9.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12122">
+            <name>point_12120</name>
+            <description>velocity: 1.693</description>
+            <Point id="geom_12120">
+                <coordinates>-82.559828333,27.302185,9.8</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12182">
+            <name>point_12180</name>
+            <description>velocity: 0.921</description>
+            <Point id="geom_12180">
+                <coordinates>-82.559593333,27.302915,14.6</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12242">
+            <name>point_12240</name>
+            <description>velocity: 1.579</description>
+            <Point id="geom_12240">
+                <coordinates>-82.559333333,27.303576667,9.7</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12302">
+            <name>point_12300</name>
+            <description>velocity: 1.235</description>
+            <Point id="geom_12300">
+                <coordinates>-82.559001667,27.304218333,4.2</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12362">
+            <name>point_12360</name>
+            <description>velocity: 1.343</description>
+            <Point id="geom_12360">
+                <coordinates>-82.558471667,27.304758333,2.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12422">
+            <name>point_12420</name>
+            <description>velocity: 0.957</description>
+            <Point id="geom_12420">
+                <coordinates>-82.557938333,27.304993333,-2.7</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12482">
+            <name>point_12480</name>
+            <description>velocity: 1.276</description>
+            <Point id="geom_12480">
+                <coordinates>-82.55729,27.305128333,3.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12542">
+            <name>point_12540</name>
+            <description>velocity: 1.07</description>
+            <Point id="geom_12540">
+                <coordinates>-82.556688333,27.305153333,13.3</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12602">
+            <name>point_12600</name>
+            <description>velocity: 0.849</description>
+            <Point id="geom_12600">
+                <coordinates>-82.555905,27.305151667,12.9</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12662">
+            <name>point_12660</name>
+            <description>velocity: 1.476</description>
+            <Point id="geom_12660">
+                <coordinates>-82.55521,27.304946667,-2.8</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12722">
+            <name>point_12720</name>
+            <description>velocity: 1.466</description>
+            <Point id="geom_12720">
+                <coordinates>-82.554536667,27.30478,-11.4</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12782">
+            <name>point_12780</name>
+            <description>velocity: 1.055</description>
+            <Point id="geom_12780">
+                <coordinates>-82.5539,27.304761667,-9.7</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12842">
+            <name>point_12840</name>
+            <description>velocity: 0.931</description>
+            <Point id="geom_12840">
+                <coordinates>-82.553171667,27.304716667,-10.9</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12902">
+            <name>point_12900</name>
+            <description>velocity: 1.06</description>
+            <Point id="geom_12900">
+                <coordinates>-82.55238,27.304663333,-6.6</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12962">
+            <name>point_12960</name>
+            <description>velocity: 0.736</description>
+            <Point id="geom_12960">
+                <coordinates>-82.551946667,27.304598333,-3.4</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13022">
+            <name>point_13020</name>
+            <description>velocity: 1.065</description>
+            <Point id="geom_13020">
+                <coordinates>-82.551483333,27.304496667,-1.8</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13082">
+            <name>point_13080</name>
+            <description>velocity: 1.26</description>
+            <Point id="geom_13080">
+                <coordinates>-82.550793333,27.304276667,-3.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13142">
+            <name>point_13140</name>
+            <description>velocity: 1.415</description>
+            <Point id="geom_13140">
+                <coordinates>-82.550063333,27.30415,-3.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13202">
+            <name>point_13200</name>
+            <description>velocity: 0.689</description>
+            <Point id="geom_13200">
+                <coordinates>-82.54937,27.303948333,-2.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13262">
+            <name>point_13260</name>
+            <description>velocity: 1.374</description>
+            <Point id="geom_13260">
+                <coordinates>-82.54866,27.303755,-1.8</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13322">
+            <name>point_13320</name>
+            <description>velocity: 1.008</description>
+            <Point id="geom_13320">
+                <coordinates>-82.548025,27.30363,-3.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13382">
+            <name>point_13380</name>
+            <description>velocity: 1.137</description>
+            <Point id="geom_13380">
+                <coordinates>-82.54755,27.303506667,0.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13442">
+            <name>point_13440</name>
+            <description>velocity: 0.741</description>
+            <Point id="geom_13440">
+                <coordinates>-82.546873333,27.303266667,10.2</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13502">
+            <name>point_13500</name>
+            <description>velocity: 0.664</description>
+            <Point id="geom_13500">
+                <coordinates>-82.546633333,27.303181667,13.8</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13562">
+            <name>point_13560</name>
+            <description>velocity: 0.694</description>
+            <Point id="geom_13560">
+                <coordinates>-82.546576667,27.302633333,13.7</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13622">
+            <name>point_13620</name>
+            <description>velocity: 1.168</description>
+            <Point id="geom_13620">
+                <coordinates>-82.546586667,27.302175,8.2</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13682">
+            <name>point_13680</name>
+            <description>velocity: 0.947</description>
+            <Point id="geom_13680">
+                <coordinates>-82.546598333,27.301661667,3.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13742">
+            <name>point_13740</name>
+            <description>velocity: 1.23</description>
+            <Point id="geom_13740">
+                <coordinates>-82.546695,27.301128333,-1.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13802">
+            <name>point_13800</name>
+            <description>velocity: 1.327</description>
+            <Point id="geom_13800">
+                <coordinates>-82.546901667,27.3005,-3.4</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13862">
+            <name>point_13860</name>
+            <description>velocity: 1.271</description>
+            <Point id="geom_13860">
+                <coordinates>-82.547108333,27.299845,0.3</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13922">
+            <name>point_13920</name>
+            <description>velocity: 1.199</description>
+            <Point id="geom_13920">
+                <coordinates>-82.547251667,27.299226667,1.1</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13982">
+            <name>point_13980</name>
+            <description>velocity: 1.23</description>
+            <Point id="geom_13980">
+                <coordinates>-82.54737,27.29859,2.9</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14042">
+            <name>point_14040</name>
+            <description>velocity: 1.096</description>
+            <Point id="geom_14040">
+                <coordinates>-82.547425,27.297996667,4.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14102">
+            <name>point_14100</name>
+            <description>velocity: 1.008</description>
+            <Point id="geom_14100">
+                <coordinates>-82.547508333,27.297475,8.3</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14162">
+            <name>point_14160</name>
+            <description>velocity: 1.065</description>
+            <Point id="geom_14160">
+                <coordinates>-82.547468333,27.296951667,8.4</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14222">
+            <name>point_14220</name>
+            <description>velocity: 1.24</description>
+            <Point id="geom_14220">
+                <coordinates>-82.547425,27.296353333,7.1</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14282">
+            <name>point_14280</name>
+            <description>velocity: 0.134</description>
+            <Point id="geom_14280">
+                <coordinates>-82.547656667,27.295948333,3.2</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14342">
+            <name>point_14340</name>
+            <description>velocity: 0.046</description>
+            <Point id="geom_14340">
+                <coordinates>-82.547668333,27.295953333,2.9</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14402">
+            <name>point_14400</name>
+            <description>velocity: 0.195</description>
+            <Point id="geom_14400">
+                <coordinates>-82.547578333,27.295988333,1.8</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14462">
+            <name>point_14460</name>
+            <description>velocity: 0.087</description>
+            <Point id="geom_14460">
+                <coordinates>-82.54758,27.295976667,2.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14522">
+            <name>point_14520</name>
+            <description>velocity: 0.103</description>
+            <Point id="geom_14520">
+                <coordinates>-82.547595,27.295883333,1.9</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14582">
+            <name>point_14580</name>
+            <description>velocity: 0.036</description>
+            <Point id="geom_14580">
+                <coordinates>-82.547618333,27.295886667,1.8</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14642">
+            <name>point_14640</name>
+            <description>velocity: 0.123</description>
+            <Point id="geom_14640">
+                <coordinates>-82.547621667,27.295911667,1.7</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14702">
+            <name>point_14700</name>
+            <description>velocity: 0.062</description>
+            <Point id="geom_14700">
+                <coordinates>-82.547586667,27.295911667,1.2</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14762">
+            <name>point_14760</name>
+            <description>velocity: 0.165</description>
+            <Point id="geom_14760">
+                <coordinates>-82.547625,27.29588,1.3</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14822">
+            <name>point_14820</name>
+            <description>velocity: 0.309</description>
+            <Point id="geom_14820">
+                <coordinates>-82.547606667,27.295838333,0.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14882">
+            <name>point_14880</name>
+            <description>velocity: 0.134</description>
+            <Point id="geom_14880">
+                <coordinates>-82.547603333,27.295925,0.7</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14942">
+            <name>point_14940</name>
+            <description>velocity: 0.134</description>
+            <Point id="geom_14940">
+                <coordinates>-82.547608333,27.295895,0.6</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15002">
+            <name>point_15000</name>
+            <description>velocity: 0.54</description>
+            <Point id="geom_15000">
+                <coordinates>-82.547625,27.295895,0.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15062">
+            <name>point_15060</name>
+            <description>velocity: 0.478</description>
+            <Point id="geom_15060">
+                <coordinates>-82.547611667,27.29586,0.9</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15122">
+            <name>point_15120</name>
+            <description>velocity: 0.139</description>
+            <Point id="geom_15120">
+                <coordinates>-82.547665,27.295838333,0.3</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15182">
+            <name>point_15180</name>
+            <description>velocity: 0.154</description>
+            <Point id="geom_15180">
+                <coordinates>-82.54765,27.295766667,0.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15242">
+            <name>point_15240</name>
+            <description>velocity: 0.226</description>
+            <Point id="geom_15240">
+                <coordinates>-82.547673333,27.295586667,-0.3</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15302">
+            <name>point_15300</name>
+            <description>velocity: 0.231</description>
+            <Point id="geom_15300">
+                <coordinates>-82.547605,27.295638333,1.1</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15362">
+            <name>point_15360</name>
+            <description>velocity: 0.977</description>
+            <Point id="geom_15360">
+                <coordinates>-82.54762,27.295046667,4.3</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15422">
+            <name>point_15420</name>
+            <description>velocity: 1.379</description>
+            <Point id="geom_15420">
+                <coordinates>-82.547678333,27.294291667,5.8</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15482">
+            <name>point_15480</name>
+            <description>velocity: 1.296</description>
+            <Point id="geom_15480">
+                <coordinates>-82.547705,27.293566667,1.7</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15542">
+            <name>point_15540</name>
+            <description>velocity: 1.142</description>
+            <Point id="geom_15540">
+                <coordinates>-82.547806667,27.292928333,3.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15602">
+            <name>point_15600</name>
+            <description>velocity: 1.327</description>
+            <Point id="geom_15600">
+                <coordinates>-82.547855,27.29227,1.7</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15662">
+            <name>point_15660</name>
+            <description>velocity: 1.224</description>
+            <Point id="geom_15660">
+                <coordinates>-82.54798,27.291573333,1.3</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15722">
+            <name>point_15720</name>
+            <description>velocity: 1.379</description>
+            <Point id="geom_15720">
+                <coordinates>-82.5481,27.29087,-0.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15782">
+            <name>point_15780</name>
+            <description>velocity: 1.332</description>
+            <Point id="geom_15780">
+                <coordinates>-82.548231667,27.290181667,1.4</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15842">
+            <name>point_15840</name>
+            <description>velocity: 1.24</description>
+            <Point id="geom_15840">
+                <coordinates>-82.548435,27.289506667,2.6</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15902">
+            <name>point_15900</name>
+            <description>velocity: 0.576</description>
+            <Point id="geom_15900">
+                <coordinates>-82.54851,27.288958333,-3.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15962">
+            <name>point_15960</name>
+            <description>velocity: 0.268</description>
+            <Point id="geom_15960">
+                <coordinates>-82.54853,27.288785,-2.9</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16022">
+            <name>point_16020</name>
+            <description>velocity: 0.952</description>
+            <Point id="geom_16020">
+                <coordinates>-82.548486667,27.288416667,-1.9</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16082">
+            <name>point_16080</name>
+            <description>velocity: 0.957</description>
+            <Point id="geom_16080">
+                <coordinates>-82.548423333,27.287926667,-2.9</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16142">
+            <name>point_16140</name>
+            <description>velocity: 0.782</description>
+            <Point id="geom_16140">
+                <coordinates>-82.548393333,27.287491667,-3.5</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16202">
+            <name>point_16200</name>
+            <description>velocity: 0.977</description>
+            <Point id="geom_16200">
+                <coordinates>-82.548328333,27.286986667,-4.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16262">
+            <name>point_16260</name>
+            <description>velocity: 1.111</description>
+            <Point id="geom_16260">
+                <coordinates>-82.548365,27.286456667,-1.2</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16322">
+            <name>point_16320</name>
+            <description>velocity: 1.044</description>
+            <Point id="geom_16320">
+                <coordinates>-82.548301667,27.285891667,2.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16382">
+            <name>point_16380</name>
+            <description>velocity: 1.204</description>
+            <Point id="geom_16380">
+                <coordinates>-82.548188333,27.285256667,4.3</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16442">
+            <name>point_16440</name>
+            <description>velocity: 1.199</description>
+            <Point id="geom_16440">
+                <coordinates>-82.54808,27.284605,1.1</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16502">
+            <name>point_16500</name>
+            <description>velocity: 1.219</description>
+            <Point id="geom_16500">
+                <coordinates>-82.54785,27.284001667,1.6</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16562">
+            <name>point_16560</name>
+            <description>velocity: 1.26</description>
+            <Point id="geom_16560">
+                <coordinates>-82.547613333,27.28337,0.8</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16622">
+            <name>point_16620</name>
+            <description>velocity: 1.152</description>
+            <Point id="geom_16620">
+                <coordinates>-82.547368333,27.282751667,-0.7</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16682">
+            <name>point_16680</name>
+            <description>velocity: 1.307</description>
+            <Point id="geom_16680">
+                <coordinates>-82.547151667,27.282153333,2.3</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16742">
+            <name>point_16740</name>
+            <description>velocity: 1.132</description>
+            <Point id="geom_16740">
+                <coordinates>-82.54687,27.281571667,3.6</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16802">
+            <name>point_16800</name>
+            <description>velocity: 1.482</description>
+            <Point id="geom_16800">
+                <coordinates>-82.546553333,27.280936667,4.8</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16862">
+            <name>point_16860</name>
+            <description>velocity: 0.88</description>
+            <Point id="geom_16860">
+                <coordinates>-82.546343333,27.280285,5.9</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16922">
+            <name>point_16920</name>
+            <description>velocity: 1.024</description>
+            <Point id="geom_16920">
+                <coordinates>-82.546085,27.279771667,8.7</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16982">
+            <name>point_16980</name>
+            <description>velocity: 1.322</description>
+            <Point id="geom_16980">
+                <coordinates>-82.54576,27.27918,8.9</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17042">
+            <name>point_17040</name>
+            <description>velocity: 1.538</description>
+            <Point id="geom_17040">
+                <coordinates>-82.545395,27.278508333,9.7</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17102">
+            <name>point_17100</name>
+            <description>velocity: 0.664</description>
+            <Point id="geom_17100">
+                <coordinates>-82.545106667,27.27791,5.9</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17162">
+            <name>point_17160</name>
+            <description>velocity: 1.096</description>
+            <Point id="geom_17160">
+                <coordinates>-82.544886667,27.277556667,9.7</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17222">
+            <name>point_17220</name>
+            <description>velocity: 0.983</description>
+            <Point id="geom_17220">
+                <coordinates>-82.54452,27.277035,15.0</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17282">
+            <name>point_17280</name>
+            <description>velocity: 1.019</description>
+            <Point id="geom_17280">
+                <coordinates>-82.544245,27.27652,18.3</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17342">
+            <name>point_17340</name>
+            <description>velocity: 1.24</description>
+            <Point id="geom_17340">
+                <coordinates>-82.544106667,27.275881667,19.8</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17402">
+            <name>point_17400</name>
+            <description>velocity: 0.972</description>
+            <Point id="geom_17400">
+                <coordinates>-82.543941667,27.275353333,21.2</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17462">
+            <name>point_17460</name>
+            <description>velocity: 1.291</description>
+            <Point id="geom_17460">
+                <coordinates>-82.543788333,27.274693333,21.2</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17522">
+            <name>point_17520</name>
+            <description>velocity: 1.286</description>
+            <Point id="geom_17520">
+                <coordinates>-82.543625,27.27404,18.9</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17582">
+            <name>point_17580</name>
+            <description>velocity: 1.296</description>
+            <Point id="geom_17580">
+                <coordinates>-82.543476667,27.27337,17.1</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17642">
+            <name>point_17640</name>
+            <description>velocity: 1.116</description>
+            <Point id="geom_17640">
+                <coordinates>-82.54344,27.272696667,12.7</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17702">
+            <name>point_17700</name>
+            <description>velocity: 1.363</description>
+            <Point id="geom_17700">
+                <coordinates>-82.543306667,27.272091667,9.1</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17762">
+            <name>point_17760</name>
+            <description>velocity: 0.972</description>
+            <Point id="geom_17760">
+                <coordinates>-82.542995,27.271505,2.1</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17822">
+            <name>point_17820</name>
+            <description>velocity: 0.293</description>
+            <Point id="geom_17820">
+                <coordinates>-82.543085,27.271386667,-0.7</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17882">
+            <name>point_17880</name>
+            <description>velocity: 0.144</description>
+            <Point id="geom_17880">
+                <coordinates>-82.543108333,27.271353333,-1.7</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17942">
+            <name>point_17940</name>
+            <description>velocity: 0.108</description>
+            <Point id="geom_17940">
+                <coordinates>-82.543101667,27.271356667,-1.6</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_18002">
+            <name>point_18000</name>
+            <description>velocity: 0.103</description>
+            <Point id="geom_18000">
+                <coordinates>-82.543028333,27.271381667,-1.2</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
